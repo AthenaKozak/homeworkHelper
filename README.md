@@ -1,10 +1,10 @@
 # finalProjectSSD - Homework Tracker
 Final Project SSD (Athena, Denis, Tara, Thomas)
 
-[Homework tracking app hosted in Heroku](https://dashboard.heroku.com/apps/homework-helper-ssd)
+[Homework tracking app hosted with Heroku](https://homework-helper-ssd.herokuapp.com/)
 
 ## Demo
-[View demo here](https://youtu.be/_EMIi3Ash9E)
+[View video demo](https://youtu.be/_EMIi3Ash9E)
 
 ## Deliverables
 * Must-Have Features
