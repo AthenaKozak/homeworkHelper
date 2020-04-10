@@ -3,6 +3,11 @@ Final Project SSD (Athena, Denis, Tara, Thomas)
 
 Homework tracking app.
 
+## View Project
+[View Project](https://dashboard.heroku.com/apps/homework-helper-ssd)
+
+[View Demo](https://youtu.be/_EMIi3Ash9E)
+
 ## Deliverables
 * Must-Have Features
     * Authentication
