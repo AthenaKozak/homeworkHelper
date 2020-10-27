@@ -1,5 +1,5 @@
-# finalProjectSSD - Homework Tracker
-Final Project SSD (Athena, Denis, Tara, Thomas)
+# Homework Helper
+Final Project SSD
 
 [Homework tracking app hosted with Heroku](https://homework-helper-ssd.herokuapp.com/)
 
